@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_811f653fca0c7131cbccdb7af7fc15ec09f8a2cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_e9fb9f8125ea6a7146d1bc6fba301d5b10e4c877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_eead05cae9ec99035d5e8418e0c205da2a19dd3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_2f9a54051ec566ac99012c9d90707779f8ac0c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ijaysdev/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_b7bbd21b2c705a4aefced678f89b83351ea3c5cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_8a8e6ef47b7ef4fe98f68dfc3612a379901302e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_a4651e8d7531a2850ec4e3846d4761211a6f72f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ijaysdev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/ijaysdev/yunyao/ownCode/AndroidAnimation/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_b60e6ffd2828ce577b3dde14458da2c3c5a6e8cd.jar" />
+    </item>
+
+</items>
